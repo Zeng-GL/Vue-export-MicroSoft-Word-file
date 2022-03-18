@@ -1,1 +1,1 @@
-# Vue-export-MicroSoft-Word-file-
+# Vue-export-MicroSoft-Word-file
