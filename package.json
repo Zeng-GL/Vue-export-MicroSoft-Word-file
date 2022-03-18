@@ -1,0 +1,36 @@
+{
+  "name": "word-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "docxtemplater": "^3.29.0",
+    "file-saver": "^2.0.5",
+    "jszip": "^2.6.1",
+    "jszip-utils": "^0.1.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.6.4"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.5.95",
+    "@vue/cli-plugin-babel": "~4.5.12",
+    "@vue/cli-plugin-router": "~4.5.12",
+    "@vue/cli-plugin-vuex": "~4.5.12",
+    "@vue/cli-service": "~4.5.12",
+    "deepmerge": "^4.2.2",
+    "node-sass": "^4.12.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
